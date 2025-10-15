@@ -20,19 +20,18 @@
     const arrival = (now.getDate()+7)
     if (hour < 12)
     {
-      document.write("Good morning,"+ name + ", thank you for ordering")
+      document.write("Good morning,"+ name + ", thank you for ordering. ")
     }
     else if (hour < 18)
     {
-      document.write("Good afternoon, " + name +" , thank you for ordering")
+      document.write("Good afternoon, " + name +" , thank you for ordering. ")
     }
     else
     {
-      document.write("Good evening, " + name + " , thank you for ordering")
+      document.write("Good evening, " + name + " , thank you for ordering. ")
     }
-    document.writeln("\n")
-    document.writeln(name + " ordered " + count + " " + item + "'s. \n")
-    document.writeln("Your order is expected to arrive on " + arrival.toDateString() + ".\n Have a nice day.")
+    document.writeln(name + " ordered " + count + " " + item + ". ")
+    document.writeln("Your order is expected to arrive on " + arrival.toDateString() + ". Have a nice day. ")
       </script>
   </body>
 </html>
