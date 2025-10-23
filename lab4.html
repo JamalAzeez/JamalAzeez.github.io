@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <script>
+      window.alert("Welcome to the Website")
+    </script>
+  </head>
+  <body>
+    <script>
+    var name;
+    var item;
+    var count;
+    name = 
+    window.prompt("What is your name?");
+    item = 
+    window.prompt("What item are your requesting?");
+    count =
+    window.prompt("From 1 to 99, How many of this item would you like?");
+    const now = new Date();
+    const hour = now.getHours();
+    const arrival = new Date();
+    arrival.setDate(now.getDate()+7);
+    if (hour < 12)
+    {
+      document.write("Good morning "+ name + ", thank you for ordering. ")
+    }
+    else if (hour < 18)
+    {
+      document.write("Good afternoon " + name +", thank you for ordering. ")
+    }
+    else
+    {
+      document.write("Good evening " + name + ", thank you for ordering. ")
+    }
+    document.writeln(name + " ordered " + count + " " + item + ". ")
+    document.writeln("Your order is expected to arrive on " + arrival.toDateString() + ". Have a nice day. ")
+      </script>
+  </body>
+</html>
