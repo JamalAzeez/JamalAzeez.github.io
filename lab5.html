@@ -1,0 +1,37 @@
+<head>
+<script>
+    function submitForm() {
+        var elements = document.getElementById("registrationForm").elements;
+
+        var user = {fname, lname, email, password, dob};
+        for (var i = 0; i < elements.length; i++) 
+        {
+            var element = elements[i];
+            if (element.name) 
+            {  
+                user[element.name] = element.value;
+            }
+        }
+        console.log(user);
+
+        document.getElementById("register").innerHTML =
+            "First Name: " + user.fname + "<br>"
+            "Last Name: " + user.lname + "<br>"
+            "Email: " + user.email + "<br>"
+            "Password: " + "*".repeat(user.password.length) + "<br>"
+            "Date of Birth: " + user.dob + "<br>"
+    }
+</script>
+</head>
+
+<body>
+<body>
+    <form id="registrationForm">
+        First name: <input type="text" name="fname" placeholder="PLease enter your first name"><br>
+        Last name: <input type="text" name="lname" placeholder="Please enter your last name"><br>
+        Email: <input type="email" name="email" placeholder="Please enter your email"><br>
+        Password: <input type="password" name="password" placeholder="Please enter your password"><br>
+        Date: <input type="date" name="date" placeholder="Please enter your date of birth"><br>
+        <button onclick="submitForm()">Submit</button>
+    </form>
+</body>
