@@ -1,8 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <link rel="stylesheet"href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script>
-    function submitForm() {
-        var elements = document.getElementById("registrationForm").elements;
+    function submitForm() 
+    {
+        event.preventDefault();
 
+        var elements = document.getElementById("registrationForm").elements;
+        var regex = /[!?]/;
+         if (!regex.test(password)) 
+         {
+            alert("Password must include at least one special character (! or ?)");
+            return;
+         }
         var user = {fname, lname, email, password, dob};
         for (var i = 0; i < elements.length; i++) 
         {
