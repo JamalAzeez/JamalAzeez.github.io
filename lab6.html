@@ -1,0 +1,47 @@
+<head>
+    <Title> Lab 6 </Title>
+    <pr> Press the button to recieve cat facts! </pr>
+    <br>
+</head>
+
+<body>
+    <button id="loadFacts">Load Cat Facts</button>
+    <br>
+    <img src="imgnova.jpg" alt="Cool Comic">
+    <table>
+        <thead>
+            <tr>
+                <th>Fact id</th>
+                <th>Fact</th>
+            </tr>
+        </thead>
+        <tbody id="factsTable">
+        </tbody>
+    </table>
+
+    <script>
+        document.getElementById("loadFacts").addEventListener("click", () => 
+        {
+            fetch("https://brianobruno.github.io/cats.json")
+                .then(response => response.json())
+                .then(data => 
+                {
+                    const sortedFacts = data.facts.sort((a, b) => a.factId - b.factId);
+
+                    const tableBody = document.getElementById("factsTable");
+                    tableBody.innerHTML = "";
+
+                    sortedFacts.forEach(fact => {
+                        const row = `
+                            <tr>
+                                <td>${fact.factId}</td>
+                                <td>${fact.fact}</td>
+                            </tr>
+                        `;
+                        tableBody.innerHTML += row;
+                    });
+                    document.getElementById("catImage").src = data.picture;
+                })
+        });
+    </script>
+</body>
