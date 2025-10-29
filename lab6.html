@@ -33,11 +33,11 @@
 
                     sortedFacts.forEach(fact => 
                     {
-                    tableBody.innerHTML += 
-                    "<tr>" +
-                        "<td>" + fact.factId + "</td>" +
-                        "<td>" + fact.text + "</td>" +
-                    "</tr>";
+                        tableBody.innerHTML += 
+                        "<tr>" +
+                            "<td>" + fact.factId + "</td>" +
+                            "<td>" + fact.text + "</td>" +
+                        "</tr>";
                     });
 
                     document.getElementById("replacementimg").src = data.picture;
