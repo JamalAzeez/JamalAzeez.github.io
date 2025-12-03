@@ -34,19 +34,24 @@
           </ul>
         </li>
       </ul>
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
-            id="search-input" oninput="charSearch()">
     </div>
   </div>
 </nav>
 
-<div id="roster"></div>
+<ul id="movelist" class="list-group"></ul>
+
+<template id="move-template">
+<li class="list-group-item move-item"></li>
+</template>
 
 <script>
-let everyone = [];
 
-function fetchAll() {
-fetch("https://marvel-vs-capcom-2.p.rapidapi.com/characters", {
+var parameters = new URLSearchParams(window.location.search);
+var characterName = params.get("name");
+
+document.getElementById("hero-name").textContent = characterName;
+
+fetch(`https://marvel-vs-capcom-2.p.rapidapi.com/characters/${characterName}/moves`, {
 method: "GET",
 headers: 
 {
@@ -54,41 +59,19 @@ headers:
 "x-rapidapi-key": "4a407ac26amsh7d15685e9b77b9ep15f9e7"
 }
 })
-.then(response => response.json())
+.then(res => res.json())
 .then(data => {
-console.log("Characters:", data);
-allCharacters = data;
-displayCharacters(allCharacters);
-})
-}
+const container = document.getElementById("roster");
+const template = document.getElementById("movelist");
 
-function displayCharacters(characters) 
+data.forEach(move => 
 {
-    const container = document.getElementById("roster");
-    gallery.innerHTML = ""; 
-    const template = document.getElementById("outline");
-    characters.forEach(char => 
-    {
-    const clone = template.content.cloneNode(true);
-    const img = clone.querySelector("img");
-    img.src = char.image;
-    img.alt = char.name;
-    const link = clone.querySelector("a");
-    link.href = `final2.html?name=${char.name}`;
-    link.textContent = char.name;
-    container.appendChild(clone); 
-
-    })
-}
-function charSearch()
-{
-var query = document.getElementById("input").value.tolowerCase();
-var filtered = allCharacters.filter(char => char.name.toLowerCase().includes(query));
-showCharacters(filtered);
-}
-
-
-fetchAll();
+const clone = template.content.cloneNode(true);
+clone.querySelector("li").textContent = move.name;
+container.appendChild(clone);
+});
+});
 </script>
+
 </body>
 </html>
