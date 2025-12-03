@@ -47,7 +47,7 @@
 <script>
 
 var parameters = new URLSearchParams(window.location.search);
-var characterName = params.get("name");
+var characterName = parameters.get("name");
 
 document.getElementById("hero-name").textContent = characterName;
 
@@ -60,9 +60,11 @@ headers:
 }
 })
 .then(res => res.json())
-.then(data => {
-const container = document.getElementById("roster");
-const template = document.getElementById("movelist");
+.then(data => 
+{
+const container = document.getElementById("movelist");
+const template = document.getElementById("move-template");
+
 
 data.forEach(move => 
 {
