@@ -92,7 +92,7 @@ function displayCharacters(characters)
 function charSearch()
 {
 var query = document.getElementById("search-input").value.toLowerCase();
-var filtered = allCharacters.filter(char => char.name.toLowerCase().includes(query));
+var filtered = everyone.filter(char => char.name.toLowerCase().includes(query));
 displayCharacters(filtered);
 }
 
