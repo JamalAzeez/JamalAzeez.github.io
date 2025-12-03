@@ -74,17 +74,22 @@ displayCharacters(everyone);
 function displayCharacters(characters) 
 {
     const container = document.getElementById("roster");
-    container.innerHTML = ""; 
+    container.innerHTML = "";
     const template = document.getElementById("outline");
+
     characters.forEach(char => 
     {
     const clone = template.content.cloneNode(true);
     const img = clone.querySelector("img");
+    const link = clone.querySelector("a");
+    const caption = clone.querySelector("p");
+
     img.src = char.image;
     img.alt = char.name;
-    const link = clone.querySelector("a");
-    link.href = `final2.html?name=${char.name}`;
-    link.textContent = char.name;
+    caption.textContent = char.name;
+    link.href = `final2.html?name=${encodeURIComponent(char.name)}`;
+
+
     container.appendChild(clone); 
 
     })

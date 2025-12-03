@@ -70,9 +70,9 @@ const template = document.getElementById("move-template");
 
 data.forEach(move => 
 {
-const clone = template.content.cloneNode(true);
-clone.querySelector("li").textContent = move.name;
-container.appendChild(clone);
+img.src = `https://marvel-vs-capcom-2.p.rapidapi.com${move.image}`;
+img.alt = move.move_name;
+span.textContent = move.move_name;
 });
 });
 </script>
