@@ -41,7 +41,10 @@
 <ul id="movelist" class="list-group"></ul>
 
 <template id="move-template">
-<li class="list-group-item move-item"></li>
+  <li class="list-group-item move-item">
+    <img src="" alt="" style="width:50px; height:50px; margin-right:10px;">
+    <span></span>
+  </li>
 </template>
 
 <h2 id="hero-name"></h2>
@@ -68,13 +71,19 @@ const container = document.getElementById("movelist");
 const template = document.getElementById("move-template");
 
 
-data.forEach(move => 
-{
-img.src = `https://marvel-vs-capcom-2.p.rapidapi.com${move.image}`;
-img.alt = move.move_name;
-span.textContent = move.move_name;
+data.forEach(move =>
+ {
+    const clone = template.content.cloneNode(true);
+    const img = clone.querySelector("img");
+    const span = clone.querySelector("span");
+
+    img.src = `https://marvel-vs-capcom-2.p.rapidapi.com${move.image}`;
+    img.alt = move.move_name;
+    span.textContent = move.move_name;
+
+    container.appendChild(clone);
 });
-});
+})
 </script>
 
 </body>
