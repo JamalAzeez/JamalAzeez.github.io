@@ -84,7 +84,7 @@ function displayCharacters(characters)
     const link = clone.querySelector("a");
     const caption = clone.querySelector("p");
 
-    img.src = char.image;
+    img.src = char.head_shot;
     img.alt = char.name;
     caption.textContent = char.name;
     link.href = `final2.html?name=${encodeURIComponent(char.name)}`;
