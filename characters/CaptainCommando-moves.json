@@ -1,0 +1,42 @@
+[
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Fire",
+    "image": "https://wiki.supercombo.gg/images/c/ce/MVC2_Captain_Commando_QCF_P_01.png‎"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Corridor",
+    "image": "https://wiki.supercombo.gg/images/8/84/MVC2_Captain_Commando_QCB_P_02.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Kick",
+    "image": "https://wiki.supercombo.gg/images/9/97/MVC2_Captain_Commando_QCB_K_02.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Strike - Sho",
+    "image": "https://wiki.supercombo.gg/images/3/3c/MVC2_Captain_Commando_QCF_LK_01.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Strike - Genity",
+    "image": "https://wiki.supercombo.gg/images/2/25/MVC2_Captain_Commando_QCF_HK_01.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Strike - Hoover",
+    "image": "https://wiki.supercombo.gg/images/2/26/MVC2_Captain_Commando_QCF_LK_HP_01.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Sword",
+    "image": "https://wiki.supercombo.gg/images/5/52/MVC2_Captain_Commando_QCF_PP_01.png"
+  },
+  {
+    "character_name": "CaptainCommando",
+    "move_name": "Captain Storm",
+    "image": "https://wiki.supercombo.gg/images/8/88/MVC2_Captain_Commando_QCF_KK_03.png"
+  }
+]
