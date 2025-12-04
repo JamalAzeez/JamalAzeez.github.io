@@ -273,11 +273,11 @@
         "name": "Zangief",
         "head_shot": "https://wiki.supercombo.gg/images/0/04/Portrait_MVC2_Zangief.png",
         "universe": "Capcom"
-    }
+    },
     {
         "name": "Silver_Samurai",
         "head_shot": "https://wiki.supercombo.gg/images/1/19/Portrait_MVC2_Silver_Samurai.png",
         "universe": "Marvel"
-    },
+    }
 
 ]
