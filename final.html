@@ -72,21 +72,14 @@
 <script>
 let everyone = [];
 
-function fetchAll() {
-fetch("https://marvel-vs-capcom-2.p.rapidapi.com/characters", {
-method: "GET",
-headers: 
+function fetchAll() 
 {
-"x-rapidapi-host": "marvel-vs-capcom-2.p.rapidapi.com",
-"x-rapidapi-key": "4a407ac26amsh7d15685e9b77b9ep15f9e7"
-}
-})
-.then(response => response.json())
-.then(data => {
-console.log("Characters:", data);
-everyone = data;
-displayCharacters(everyone);
-})
+  fetch("https://jamalazeez.github.io/characters.json")
+    .then(res => res.json())
+    .then(data => {
+      everyone = data;
+      displayCharacters(everyone);
+    })
 }
 
 function displayCharacters(characters) 
@@ -119,8 +112,8 @@ var filtered = everyone.filter(char => char.name.toLowerCase().includes(query));
 displayCharacters(filtered);
 }
 
-
 fetchAll();
+
 </script>
 </body>
 </html>
