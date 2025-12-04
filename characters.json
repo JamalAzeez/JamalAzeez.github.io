@@ -20,7 +20,7 @@
         "universe": "Marvel"
     },
     {
-        "name": "Doctor_Doom",
+        "name": "DoctorDoom",
         "head_shot": "https://wiki.supercombo.gg/images/7/72/Portrait_MVC2_DrDoom.png",
         "universe": "Marvel"
     },
@@ -40,7 +40,7 @@
         "universe": "Marvel"
     },
     {
-        "name": "Iron_Man",
+        "name": "IronMan",
         "head_shot": "https://wiki.supercombo.gg/images/9/9b/Portrait_MVC2_Iron_Man.png",
         "universe": "Marvel"
     },
@@ -60,7 +60,7 @@
         "universe": "Marvel"
     },
     {
-        "name": "Omega_Red",
+        "name": "OmegaRed",
         "head_shot": "https://wiki.supercombo.gg/images/c/c8/Portrait_MVC2_Omega_Red.png",
         "universe": "Marvel"
     },
@@ -95,12 +95,12 @@
         "universe": "Marvel"
     },
     {
-        "name": "Wolverine_Claw",
+        "name": "WolverineClaw",
         "head_shot": "https://wiki.supercombo.gg/images/9/98/Portrait_MVC2_Wolverine_Adamantium.png",
         "universe": "Marvel"
     },
     {
-        "name": "Captain_America",
+        "name": "CaptainAmerica",
         "head_shot": "https://wiki.supercombo.gg/images/2/2f/Portrait_MVC2_CaptAmerica.png",
         "universe": "Marvel"
     },
@@ -110,27 +110,27 @@
         "universe": "Marvel"
     },
     {
-        "name": "Shuma_Gorath",
+        "name": "ShumaGorath",
         "head_shot": "https://wiki.supercombo.gg/images/d/d5/Portrait_MVC2_Shuma-Gorath.png",
         "universe": "Marvel"
     },
     {
-        "name": "Spider_Man",
+        "name": "SpiderMan",
         "head_shot": "https://wiki.supercombo.gg/images/4/44/Portrait_MVC2_Spider-Man.png",
         "universe": "Marvel"
     },
     {
-        "name": "War_Machine",
+        "name": "WarMachine",
         "head_shot": "https://wiki.supercombo.gg/images/8/89/Portrait_MVC2_War_Machine.png",
         "universe": "Marvel"
     },
     {
-        "name": "Wolverine_Bone",
+        "name": "WolverineBone",
         "head_shot": "https://wiki.supercombo.gg/images/2/2e/Portrait_MVC2_Wolverine_Bone.png",
         "universe": "Marvel"
     },
     {
-        "name": "Ruby_Heart",
+        "name": "RubyHeart",
         "head_shot": "https://wiki.supercombo.gg/images/f/f2/Portrait_MVC2_Ruby_Heart.png",
         "universe": "MVC"
     },
@@ -155,7 +155,7 @@
         "universe": "Capcom"
     },
     {
-        "name": "B.B._Hood",
+        "name": "B.B.Hood",
         "head_shot": "https://wiki.supercombo.gg/images/c/cb/Portrait_MVC2_BBHood.png",
         "universe": "Capcom"
     },
@@ -165,7 +165,7 @@
         "universe": "Capcom"
     },
     {
-        "name": "Captain_Commando",
+        "name": "CaptainCommando",
         "head_shot": "https://wiki.supercombo.gg/images/7/77/Portrait_MVC2_CaptCommando.png",
         "universe": "Capcom"
     },
@@ -210,7 +210,7 @@
         "universe": "Capcom"
     },
     {
-        "name": "Mega_Man",
+        "name": "MegaMan",
         "head_shot": "https://wiki.supercombo.gg/images/5/56/Portrait_MVC2_Mega_Man.png",
         "universe": "Capcom"
     },
@@ -240,7 +240,7 @@
         "universe": "MVC"
     },
     {
-        "name": "Strider_Hiryu",
+        "name": "StriderHiryu",
         "head_shot": "https://wiki.supercombo.gg/images/a/a6/Portrait_MVC2_Strider.png",
         "universe": "Capcom"
     },
@@ -260,12 +260,12 @@
         "universe": "Capcom"
     },
     {
-        "name": "Chun_Li",
+        "name": "ChunLi",
         "head_shot": "https://wiki.supercombo.gg/images/f/f8/Portrait_MVC2_Chun-Li.png",
         "universe": "Capcom"
     },
     {
-        "name": "M._Bison",
+        "name": "MBison",
         "head_shot": "https://wiki.supercombo.gg/images/b/bc/Portrait_MVC2_M._Bison.png",
         "universe": "Capcom"
     },
@@ -275,7 +275,7 @@
         "universe": "Capcom"
     },
     {
-        "name": "Silver_Samurai",
+        "name": "SilverSamurai",
         "head_shot": "https://wiki.supercombo.gg/images/1/19/Portrait_MVC2_Silver_Samurai.png",
         "universe": "Marvel"
     }
