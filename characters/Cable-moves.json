@@ -2,36 +2,36 @@
   {
     "character_name": "Cable",
     "move_name": "Viper Beam",
-    "image": "/images/Move_Images/Cable/Viper Beam.PNG"
+    "image": "MVC2_Cable_QCF_P_01.png ‎"
   },
   {
     "character_name": "Cable",
     "move_name": "Scimitar",
-    "image": "/images/Move_Images/Cable/Scimitar.PNG"
+    "image": "MVC2_Cable_DP_P_02.png"
   },
   {
     "character_name": "Cable",
     "move_name": "Elec-Trap",
-    "image": "/images/Move_Images/Cable/Elec-Trap.PNG"
+    "image": "MVC2_Cable_QCB_K_01.png"
   },
   {
     "character_name": "Cable",
     "move_name": "Crackdown",
-    "image": "/images/Move_Images/Cable/Crackdown.PNG"
+    "image": "MVC2_Cable_QCF_K_01.png"
   },
   {
     "character_name": "Cable",
     "move_name": "Psy-Charge",
-    "image": "/images/Move_Images/Cable/Psy-Charge.PNG"
+    "image": "MVC2_Cable_HCB_P_01.png"
   },
   {
     "character_name": "Cable",
     "move_name": "Hyper Viper",
-    "image": "/images/Move_Images/Cable/Hyper Viper.PNG"
+    "image": "MVC2_Cable_QCF_PP_01.png"
   },
   {
     "character_name": "Cable",
     "move_name": "Time Flip",
-    "image": "/images/Move_Images/Cable/Time Flip.PNG"
+    "image": "MVC2_Cable_QCF_KK_01.png"
   }
 ]
