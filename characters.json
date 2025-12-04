@@ -1,17 +1,283 @@
 [
-  {
-    "name": "Blackheart",
-    "head_shot": "https://vignette.wikia.nocookie.net/marvelvscapcom/images/3/34/MVC2_Blackheart.jpg/revision/latest?cb=20110914071301",
-    "universe": "Marvel"
-  },
-  {
-    "name": "Cable",
-    "head_shot": "https://vignette.wikia.nocookie.net/marvelvscapcom/images/b/be/MVC2_Cable.jpg/revision/latest?cb=20110914072054",
-    "universe": "Marvel"
-  },
-  {
-    "name": "Captain America",
-    "head_shot": "https://vignette.wikia.nocookie.net/marvelvscapcom/images/2/21/MVC2_Captain_America.jpg/revision/latest?cb=20110914072107",
-    "universe": "Marvel"
-  }
+    {
+        "name": "Blackheart",
+        "head_shot": "https://wiki.supercombo.gg/images/1/16/Portrait_MVC2_Blackheart.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Cable",
+        "head_shot": "https://wiki.supercombo.gg/images/0/0b/Portrait_MVC2_Cable.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Colossus",
+        "head_shot": "https://wiki.supercombo.gg/images/0/0a/Portrait_MVC2_Colossus.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Cyclops",
+        "head_shot": "https://wiki.supercombo.gg/images/a/a9/Portrait_MVC2_Cyclops.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Doctor_Doom",
+        "head_shot": "https://wiki.supercombo.gg/images/7/72/Portrait_MVC2_DrDoom.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Gambit",
+        "head_shot": "https://wiki.supercombo.gg/images/5/59/Portrait_MVC2_Gambit.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Hulk",
+        "head_shot": "https://wiki.supercombo.gg/images/7/72/Portrait_MVC2_Hulk.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Iceman",
+        "head_shot": "https://wiki.supercombo.gg/images/0/06/Portrait_MVC2_Iceman.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Iron_Man",
+        "head_shot": "https://wiki.supercombo.gg/images/9/9b/Portrait_MVC2_Iron_Man.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Juggernaut",
+        "head_shot": "https://wiki.supercombo.gg/images/7/79/Portrait_MVC2_Juggernaut.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Magneto",
+        "head_shot": "https://wiki.supercombo.gg/images/f/fa/Portrait_MVC2_Magneto.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Marrow",
+        "head_shot": "https://wiki.supercombo.gg/images/9/9b/Portrait_MVC2_Marrow.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Omega_Red",
+        "head_shot": "https://wiki.supercombo.gg/images/c/c8/Portrait_MVC2_Omega_Red.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Psylocke",
+        "head_shot": "https://wiki.supercombo.gg/images/3/35/Portrait_MVC2_Psylocke.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Rogue",
+        "head_shot": "https://wiki.supercombo.gg/images/1/17/Portrait_MVC2_Rogue.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Sentinel",
+        "head_shot": "https://wiki.supercombo.gg/images/0/00/Portrait_MVC2_Sentinel.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Storm",
+        "head_shot": "https://wiki.supercombo.gg/images/3/31/Portrait_MVC2_Storm.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Thanos",
+        "head_shot": "https://wiki.supercombo.gg/images/a/a0/Portrait_MVC2_Thanos.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Venom",
+        "head_shot": "https://wiki.supercombo.gg/images/4/45/Portrait_MVC2_Venom.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Wolverine_Claw",
+        "head_shot": "https://wiki.supercombo.gg/images/9/98/Portrait_MVC2_Wolverine_Adamantium.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Captain_America",
+        "head_shot": "https://wiki.supercombo.gg/images/2/2f/Portrait_MVC2_CaptAmerica.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Sabretooth",
+        "head_shot": "https://wiki.supercombo.gg/images/e/e2/Portrait_MVC2_Sabertooth.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Shuma_Gorath",
+        "head_shot": "https://wiki.supercombo.gg/images/d/d5/Portrait_MVC2_Shuma-Gorath.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Spider_Man",
+        "head_shot": "https://wiki.supercombo.gg/images/4/44/Portrait_MVC2_Spider-Man.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "War_Machine",
+        "head_shot": "https://wiki.supercombo.gg/images/8/89/Portrait_MVC2_War_Machine.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Wolverine_Bone",
+        "head_shot": "https://wiki.supercombo.gg/images/2/2e/Portrait_MVC2_Wolverine_Bone.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Ruby_Heart",
+        "head_shot": "https://wiki.supercombo.gg/images/f/f2/Portrait_MVC2_Ruby_Heart.png",
+        "universe": "MVC"
+    },
+    {
+        "name": "Spiral",
+        "head_shot": "https://wiki.supercombo.gg/images/6/6e/Portrait_MVC2_Spiral.png",
+        "universe": "Marvel"
+    },
+    {
+        "name": "Akuma",
+        "head_shot": "https://wiki.supercombo.gg/images/4/41/Portrait_MVC2_Akuma.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Amingo",
+        "head_shot": "https://wiki.supercombo.gg/images/9/90/Portrait_MVC2_Amingo.png",
+        "universe": "MVC"
+    },
+    {
+        "name": "Anakaris",
+        "head_shot": "https://wiki.supercombo.gg/images/3/33/Portrait_MVC2_Anakaris.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "B.B._Hood",
+        "head_shot": "https://wiki.supercombo.gg/images/c/cb/Portrait_MVC2_BBHood.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Cammy",
+        "head_shot": "https://wiki.supercombo.gg/images/9/97/Portrait_MVC2_Cammy.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Captain_Commando",
+        "head_shot": "https://wiki.supercombo.gg/images/7/77/Portrait_MVC2_CaptCommando.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Dan",
+        "head_shot": "https://wiki.supercombo.gg/images/7/7e/Portrait_MVC2_Dan.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Dhalsim",
+        "head_shot": "https://wiki.supercombo.gg/images/c/cc/Portrait_MVC2_Dhalsim.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Felicia",
+        "head_shot": "https://wiki.supercombo.gg/images/2/2a/Portrait_MVC2_Felicia.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Guile",
+        "head_shot": "https://wiki.supercombo.gg/images/e/ed/Portrait_MVC2_Guile.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Hayato",
+        "head_shot": "https://wiki.supercombo.gg/images/a/a2/Portrait_MVC2_Hayato.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Jill",
+        "head_shot": "https://wiki.supercombo.gg/images/b/b4/Portrait_MVC2_Jill_Valentine.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Jin",
+        "head_shot": "https://wiki.supercombo.gg/images/2/24/Portrait_MVC2_Jin_Saotome.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Ken",
+        "head_shot": "https://wiki.supercombo.gg/images/d/d4/Portrait_MVC2_Ken.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Mega_Man",
+        "head_shot": "https://wiki.supercombo.gg/images/5/56/Portrait_MVC2_Mega_Man.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Roll",
+        "head_shot": "https://wiki.supercombo.gg/images/e/e4/Portrait_MVC2_Roll.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Ryu",
+        "head_shot": "https://wiki.supercombo.gg/images/e/e5/Portrait_MVC2_Ryu.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Sakura",
+        "head_shot": "https://wiki.supercombo.gg/images/b/bd/Portrait_MVC2_Sakura.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Servbot",
+        "head_shot": "https://wiki.supercombo.gg/images/3/39/Portrait_MVC2_Servbot.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "SonSon",
+        "head_shot": "https://wiki.supercombo.gg/images/7/75/Portrait_MVC2_Sonson.png",
+        "universe": "MVC"
+    },
+    {
+        "name": "Strider_Hiryu",
+        "head_shot": "https://wiki.supercombo.gg/images/a/a6/Portrait_MVC2_Strider.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Tron_Bonne",
+        "head_shot": "https://wiki.supercombo.gg/images/c/cc/Portrait_MVC2_Tron_Bonne.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Morrigan",
+        "head_shot": "https://wiki.supercombo.gg/images/0/08/Portrait_MVC2_Morrigan.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Charlie",
+        "head_shot": "https://wiki.supercombo.gg/images/b/b7/Portrait_MVC2_Charlie.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Chun_Li",
+        "head_shot": "https://wiki.supercombo.gg/images/f/f8/Portrait_MVC2_Chun-Li.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "M._Bison",
+        "head_shot": "https://wiki.supercombo.gg/images/b/bc/Portrait_MVC2_M._Bison.png",
+        "universe": "Capcom"
+    },
+    {
+        "name": "Zangief",
+        "head_shot": "https://wiki.supercombo.gg/images/0/04/Portrait_MVC2_Zangief.png",
+        "universe": "Capcom"
+    }
+    {
+        "name": "Silver_Samurai",
+        "head_shot": "https://wiki.supercombo.gg/images/1/19/Portrait_MVC2_Silver_Samurai.png",
+        "universe": "Marvel"
+    },
+
 ]
