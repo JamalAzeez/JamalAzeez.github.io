@@ -1,0 +1,27 @@
+[
+  {
+    "character_name": "Juggernaut",
+    "move_name": "Juggernaut Punch",
+    "image": "https://wiki.supercombo.gg/images/5/5a/MVC2_Juggernaut_41236p.png"
+  },
+  {
+    "character_name": "Juggernaut",
+    "move_name": "Juggernaut Body Press",
+    "image": "https://wiki.supercombo.gg/images/8/88/MVC2_Juggernaut_41236k.png"
+  },
+  {
+    "character_name": "Juggernaut",
+    "move_name": "Earthquake Punch",
+    "image": "https://wiki.supercombo.gg/images/7/70/MVC2_Juggernaut_2MP.png"
+  },
+  {
+    "character_name": "Juggernaut",
+    "move_name": "Cyttorak Power-Up",
+    "image": "https://wiki.supercombo.gg/images/5/59/MVC2_Juggernaut_632p.png"
+  },
+  {
+    "character_name": "Juggernaut",
+    "move_name": "Juggernaut Headcrush",
+    "image": "https://wiki.supercombo.gg/images/3/3b/MVC2_Juggernaut_236pp.png"
+  }
+]
