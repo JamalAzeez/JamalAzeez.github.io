@@ -1,0 +1,57 @@
+[
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Shuriken",
+    "image": "https://wiki.supercombo.gg/images/9/97/MVC2_Samurai_QCF_P_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Shuriken Projectile",
+    "image": "https://wiki.supercombo.gg/images/3/34/MVC2_Samurai_QCF_P_02.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Hyakuretsutou",
+    "image": "https://wiki.supercombo.gg/images/c/c3/MVC2_Samurai_DP_P_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Running Hyakuretsutou",
+    "image": "https://wiki.supercombo.gg/images/5/5b/MVC2_Samurai_FF_DP_P_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Cho-Shuriken",
+    "image": "https://wiki.supercombo.gg/images/9/97/MVC2_Samurai_QCF_P_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Raimeiken",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Samurai_QCF_N_KK_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Homuraken",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Samurai_QCF_N_KK_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Hyougaken",
+    "image": "https://wiki.supercombo.gg/images/d/d4/MVC2_Samurai_QCF_I_KK_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Toki-Rai",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Samurai_QCF_N_KK_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Toki-Hyo",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Samurai_QCF_N_KK_01.png"
+  }, 
+  {
+    "character_name": "SilverSamurai",
+    "move_name": "Toki-En",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Samurai_QCF_N_KK_01.png"
+  }
+]
