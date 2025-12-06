@@ -1,0 +1,22 @@
+[
+  {
+    "character_name": "Colossus",
+    "move_name": "Giant Swing",
+    "image": "https://wiki.supercombo.gg/images/a/a8/MVC2_Colossus_QCF_P_01.png"
+  },
+  {
+    "character_name": "Colossus",
+    "move_name": "Power Tackle",
+    "image": "https://wiki.supercombo.gg/images/f/f4/MVC2_Colossus_QCF_K_01.png"
+  },
+  {
+    "character_name": "Colossus",
+    "move_name": "Super Dive",
+    "image": "https://wiki.supercombo.gg/images/1/13/MVC2_Colossus_QCF_PP_02.png"
+  },
+  {
+    "character_name": "Colossus",
+    "move_name": "Super Armor",
+    "image": "https://wiki.supercombo.gg/images/7/79/MVC2_Colossus_QCB_PP_01.png"
+  }
+]
