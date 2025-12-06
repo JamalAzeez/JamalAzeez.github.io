@@ -1,0 +1,47 @@
+[
+  {
+    "character_name": "Storm",
+    "move_name": "Typhoon",
+    "image": "https://wiki.supercombo.gg/images/0/0d/MVC2_Storm_236k.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Typhoon Projectile",
+    "image": "https://wiki.supercombo.gg/images/thumb/f/f6/MVC2_Storm_236k_proj.png/263px-MVC2_Storm_236k_proj.png
+  },  
+  {
+    "character_name": "Storm",
+    "move_name": "Vertical Typhoon",
+    "image": "https://wiki.supercombo.gg/images/0/0d/MVC2_Storm_236k.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Vertical Typhoon Projectile",
+    "image": "https://wiki.supercombo.gg/images/e/ed/MVC2_Storm_41236k_proj.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Lightning sphere",
+    "image": "https://wiki.supercombo.gg/images/c/c4/MVC2_Storm_214p.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Lightning Attack",
+    "image": "https://wiki.supercombo.gg/images/8/8c/MVC2_Storm_LA.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Fly mode",
+    "image": "https://wiki.supercombo.gg/images/e/ec/MVC2_Storm_fly.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Lightning storm",
+    "image": "https://wiki.supercombo.gg/images/2/2c/MVC2_Storm_lstorm.png"
+  },
+  {
+    "character_name": "Storm",
+    "move_name": "Hail storm",
+    "image": "https://wiki.supercombo.gg/images/3/35/MVC2_Storm_hail.png"
+  }
+]
