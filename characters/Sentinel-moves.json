@@ -1,0 +1,32 @@
+[
+  {
+    "character_name": "Sentinel",
+    "move_name": "Rocket Punch",
+    "image": ""
+  },
+  {
+    "character_name": "Sentinel",
+    "move_name": "Sentinel Force",
+    "image": ""
+  },
+  {
+    "character_name": "Sentinel",
+    "move_name": "Flight Mode",
+    "image": ""
+  },
+  {
+    "character_name": "Sentinel",
+    "move_name": "Plasma Storm",
+    "image": ""
+  },
+  {
+    "character_name": "Sentinel",
+    "move_name": "Hyper Sentinel Force",
+    "image": ""
+  },
+  {
+    "character_name": "Sentinel",
+    "move_name": "Hard Drive",
+    "image": ""
+  }
+]
