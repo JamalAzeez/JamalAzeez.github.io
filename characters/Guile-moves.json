@@ -1,0 +1,27 @@
+[
+  {
+    "character_name": "Guile",
+    "move_name": "Sonic Boom",
+    "image": ""
+  },
+  {
+    "character_name": "Guile",
+    "move_name": "Somersault",
+    "image": ""
+  },
+  {
+    "character_name": "Guile",
+    "move_name": "Air Somersault",
+    "image": ""
+  },
+  {
+    "character_name": "Guile",
+    "move_name": "Sonic Hurricane",
+    "image": ""
+  },
+  {
+    "character_name": "Guile",
+    "move_name": "Somersault Strike",
+    "image": ""
+  }
+]
