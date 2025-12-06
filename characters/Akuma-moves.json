@@ -1,0 +1,57 @@
+[
+  {
+    "character_name": "Akuma",
+    "move_name": "Gohadoken",
+    "image": "https://wiki.supercombo.gg/images/2/2f/MVC2_Akuma_Gohadoken_01.png"
+  }, 
+  {
+    "character_name": "Akuma",
+    "move_name": "Zankuu Hadoken",
+    "image": "https://wiki.supercombo.gg/images/3/34/MVC2_Akuma_Zankuu_Hadoken_01.png"
+  },
+  {
+    "character_name": "Akuma",
+    "move_name": "Goshoryuken",
+    "image": "https://wiki.supercombo.gg/images/8/87/MVC2_Akuma_Goshoryuken_03.png"
+  },
+  {
+    "character_name": "Akuma",
+    "move_name": "Tatsumaki Zankuu Kyaku",
+    "image": "https://wiki.supercombo.gg/images/6/67/MVC2_Akuma_Tatsumaki_Zankuu_Kyaku_01.png"
+  },
+  {
+    "character_name": "Akuma",
+    "move_name": "Tenma Kuujin Kyaku",
+    "image": "https://wiki.supercombo.gg/images/3/35/MVC2_Akuma_Tenma_Kuujin_Kyaku_01.png"
+  },
+  {
+    "character_name": "Akuma",
+    "move_name": "Jigoku Guruma",
+    "image": ""
+  } 
+  {
+    "character_name": "Akuma",
+    "move_name": "Messatsu Gou Shouryuu",
+    "image": "https://wiki.supercombo.gg/images/e/e1/MVC2_Akuma_Messatsu_Gou_Shouryuu_01.png"
+  }, 
+  {
+    "character_name": "Akuma",
+    "move_name": "Messatsu Gou Hadou",
+    "image": "https://wiki.supercombo.gg/images/5/53/MVC2_Akuma_Messatsu_Gou_Hadou_01.png"
+  }, 
+  {
+    "character_name": "Akuma",
+    "move_name": "Messatsu Gou Rasen",
+    "image": "https://wiki.supercombo.gg/images/2/2a/MVC2_Akuma_Messatsu_Gou_Rasen_01.png"
+  }, 
+  {
+    "character_name": "Akuma",
+    "move_name": "Tenma Gou Zankuu",
+    "image": "https://wiki.supercombo.gg/images/3/3c/MVC2_Akuma_Tenma_Gou_Zankuu_01.png"
+  }, 
+  {
+    "character_name": "Akuma",
+    "move_name": "Shun Goku Satsu",
+    "image": "https://wiki.supercombo.gg/images/1/10/MVC2_Akuma_Shun_Goku_Satsu_01.png"
+  }
+]
