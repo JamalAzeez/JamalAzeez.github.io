@@ -1,0 +1,38 @@
+
+[
+  {
+    "character_name": "Dan",
+    "move_name": "Gadoken",
+    "image": "https://wiki.supercombo.gg/images/7/76/MVC2_Dan_Gadoken_01.png"
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Koryuken",
+    "image": "https://wiki.supercombo.gg/images/8/8b/MVC2_Dan_Koryuken_03.png"
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Dankuukyaku",
+    "image": "https://wiki.supercombo.gg/images/6/67/MVC2_Dan_Dankuukyaku_02.png"
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Premium Sign",
+    "image": "https://wiki.supercombo.gg/images/8/8f/MVC2_Dan_Premium_Sign_01.png"
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Shinkuu Gadoken",
+    "image": ""
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Koryu Rekka",
+    "image": "https://wiki.supercombo.gg/images/6/60/MVC2_Dan_Koryu_Rekka_02.png"
+  },
+  {
+    "character_name": "Dan",
+    "move_name": "Otoko Michi",
+    "image": "https://wiki.supercombo.gg/images/c/c1/MVC2_Dan_Otoko_Michi_02.png"
+  }
+]
