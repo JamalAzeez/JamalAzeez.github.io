@@ -1,0 +1,22 @@
+[
+  {
+    "character_name": "Iceman",
+    "move_name": "Ice Beam",
+    "image": "https://wiki.supercombo.gg/images/8/86/MVC2_Iceman_QCF_LP_01.png"
+  },
+  {
+    "character_name": "Iceman",
+    "move_name": "Ice Avalanche",
+    "image": "https://wiki.supercombo.gg/images/9/9d/MVC2_Iceman_QCF_K_01.png"
+  },
+  {
+    "character_name": "Iceman",
+    "move_name": "Ice Fist",
+    "image": "https://wiki.supercombo.gg/images/7/72/MVC2_Iceman_QCB_P_01.png"
+  },
+  {
+    "character_name": "Iceman",
+    "move_name": "Arctic Attack",
+    "image": "https://wiki.supercombo.gg/images/b/bc/MVC2_Iceman_QCF_PP_01.png"
+  }
+]
