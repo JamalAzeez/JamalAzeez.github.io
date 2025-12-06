@@ -1,0 +1,42 @@
+[
+  {
+    "character_name": "Thanos",
+    "move_name": "Death Sphere",
+    "image": "https://wiki.supercombo.gg/images/8/83/MVC2_Thanos_Death_Sphere_01.png"
+  },
+  {
+    "character_name": "Thanos",
+    "move_name": "Death Sphere",
+    "image": "https://wiki.supercombo.gg/images/b/b9/MVC2_Thanos_Death_Sphere_02.png"
+  }, 
+  {
+    "character_name": "Thanos",
+    "move_name": "Titan Crush",
+    "image": "https://wiki.supercombo.gg/images/f/f7/MVC2_Thanos_Titan_Crush_01.png"
+  },
+  {
+    "character_name": "Thanos",
+    "move_name": "Infinity Gauntlet",
+    "image": "https://wiki.supercombo.gg/images/c/c6/MVC2_Thanos_Super_01.png"
+  },
+  {
+    "character_name": "Thanos",
+    "move_name": "Gauntlet Power",
+    "image": "https://wiki.supercombo.gg/images/4/4f/MVC2_Thanos_Gauntlet_Power_02.png"
+  },
+  {
+    "character_name": "Thanos",
+    "move_name": "Gauntlet Reality",
+    "image": "https://wiki.supercombo.gg/images/f/fe/MVC2_Thanos_Gauntlet_Reality_03.png"
+  }, 
+  {
+    "character_name": "Thanos",
+    "move_name": "Gauntlet Space",
+    "image": "https://wiki.supercombo.gg/images/f/f1/MVC2_Thanos_Gauntlet_Space_03.png"
+  }, 
+  {
+    "character_name": "Thanos",
+    "move_name": "Gauntlet Soul",
+    "image": "https://wiki.supercombo.gg/images/c/c6/MVC2_Thanos_Super_01.png"
+  }
+]
