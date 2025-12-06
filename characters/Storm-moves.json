@@ -1,18 +1,13 @@
 [
   {
     "character_name": "Storm",
-    "move_name": "Typhoon",
+    "move_name": "Typhoon/Vertical Typhoon",
     "image": "https://wiki.supercombo.gg/images/0/0d/MVC2_Storm_236k.png"
   },
   {
     "character_name": "Storm",
     "move_name": "Typhoon Projectile",
     "image": "https://wiki.supercombo.gg/images/thumb/f/f6/MVC2_Storm_236k_proj.png/263px-MVC2_Storm_236k_proj.png"
-  },  
-  {
-    "character_name": "Storm",
-    "move_name": "Vertical Typhoon",
-    "image": "https://wiki.supercombo.gg/images/0/0d/MVC2_Storm_236k.png"
   },
   {
     "character_name": "Storm",
