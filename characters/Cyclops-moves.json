@@ -1,0 +1,47 @@
+[
+  {
+    "character_name": "Cyclops",
+    "move_name": "Optic Blast",
+    "image": "https://wiki.supercombo.gg/images/4/46/MVC2_Cyclops_QCF_HP.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Gene Splice",
+    "image": "https://wiki.supercombo.gg/images/3/3e/MVC2_Cyclops_DP_04.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Cyclone Kick",
+    "image": "https://wiki.supercombo.gg/images/5/57/MVC2_Cyclops_QCB_01.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Beam Throw",
+    "image": "https://wiki.supercombo.gg/images/9/94/MVC2_Cyclops_HCB_P_01.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Optic Sweep",
+    "image": "https://wiki.supercombo.gg/images/d/d7/MVC2_Cyclops_Optic_Sweep_01.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Rapid Punches",
+    "image": "https://wiki.supercombo.gg/images/9/9b/MVC2_Cyclops_2MP_01.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Running Neckbreaker",
+    "image": "https://wiki.supercombo.gg/images/2/22/MVC2_Cyclops_CHBF_K_01.png"
+  },
+  {
+    "character_name": "Cyclops",
+    "move_name": "Mega Optic Blast",
+    "image": "https://wiki.supercombo.gg/images/2/27/MVC2_Cyclops_Mega_Optic_Blast.png"
+  },,
+  {
+    "character_name": "Cyclops",
+    "move_name": "Super Optic Blast",
+    "image": "https://wiki.supercombo.gg/images/b/b4/MVC2_Cyclops_Super_Optic_Blast.png"
+  }
+]
