@@ -1,0 +1,67 @@
+[
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/b/b8/CarbonadiumLp.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Diagonal Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/1/1e/CarbonadiumMp.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Up Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/b/b7/CarbonadiumPP.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Kuuchuu Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/b/bd/KuuchuuLp.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Daigonal Up Kuuchuu Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/f/f6/KuuchuuHp.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Up Kuuchuu Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/9/97/KuuchuuPP.png"
+  }, 
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Diagonal Down Kuuchuu Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/d/d7/KuuchuuHk.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Down Kuuchuu Carbonadium Coil",
+    "image": "https://wiki.supercombo.gg/images/3/35/KuuchuuKK.png"
+  } 
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Omega Strike",
+    "image": "https://wiki.supercombo.gg/images/b/b8/OmegaStrikeLk.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Diagonal Omega Strike",
+    "image": "https://wiki.supercombo.gg/images/a/af/OmegaStrikeHk.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Down Omega Strike",
+    "image": "https://wiki.supercombo.gg/images/a/a3/OmegaStrikeKK.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Omega Destroyer",
+    "image": "https://wiki.supercombo.gg/images/c/c7/Omegadestroyer.png"
+  },
+  {
+    "character_name": "OmegaRed",
+    "move_name": "Carbonadium Crusher",
+    "image": "https://wiki.supercombo.gg/images/7/7a/Crusher.png"
+  }
+]
