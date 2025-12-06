@@ -1,0 +1,32 @@
+[
+  {
+    "character_name": "Marrow",
+    "move_name": "Bone-merang",
+    "image": "https://wiki.supercombo.gg/images/2/2e/MVC2_Marrow_QCF_HP_01.png"
+  },
+  {
+    "character_name": "Marrow",
+    "move_name": "Towering Spine",
+    "image": "https://wiki.supercombo.gg/images/a/aa/MVC2_Marrow_DP_P_03.png"
+  },
+  {
+    "character_name": "Marrow",
+    "move_name": "Ride and Slash",
+    "image": "https://wiki.supercombo.gg/images/c/c2/MVC2_Marrow_HCB_P_01.png"
+  },
+  {
+    "character_name": "Marrow",
+    "move_name": "Ricochet Slash",
+    "image": "https://wiki.supercombo.gg/images/6/6b/MVC2_Marrow_QCB_K_01.png"
+  },
+  {
+    "character_name": "Marrow",
+    "move_name": "Stinger Bones",
+    "image": "https://wiki.supercombo.gg/images/thumb/3/37/MVC2_Marrow_QCF_PP_03.png/263px-MVC2_Marrow_QCF_PP_03.png"
+  },
+  {
+    "character_name": "Marrow",
+    "move_name": "Bone Burst",
+    "image": "https://wiki.supercombo.gg/images/c/c4/MVC2_Marrow_QCB_PP_01.png"
+  }
+]
