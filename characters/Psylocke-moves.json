@@ -1,0 +1,32 @@
+[
+  {
+    "character_name": "Psylocke",
+    "move_name": "Psy-Blast",
+    "image": "https://wiki.supercombo.gg/images/8/8d/MVC2_Psylocke_QCF_P_01.png"
+  },
+  {
+    "character_name": "Psylocke",
+    "move_name": "Psy-Blade",
+    "image": "https://wiki.supercombo.gg/images/1/1a/MVC2_Psylocke_QCF_K_03.png"
+  },
+  {
+    "character_name": "Psylocke",
+    "move_name": "Ninjutsu",
+    "image": "https://wiki.supercombo.gg/images/c/c8/MVC2_Psylocke_HCB_P_or_K_02.png"
+  },
+  {
+    "character_name": "Psylocke",
+    "move_name": "Psy-Thrust",
+    "image": "https://wiki.supercombo.gg/images/thumb/9/90/MVC2_Psylocke_QCF_PP_01.png/263px-MVC2_Psylocke_QCF_PP_01.png"
+  },
+  {
+    "character_name": "Psylocke",
+    "move_name": "Psy-Maelstrom",
+    "image": "https://wiki.supercombo.gg/images/thumb/4/4b/MVC2_Psylocke_QCF_KK_01.png/263px-MVC2_Psylocke_QCF_KK_01.png"
+  },
+  {
+    "character_name": "Psylocke",
+    "move_name": "Kocho-Gakure",
+    "image": "https://wiki.supercombo.gg/images/c/c5/MVC2_Psylocke_QCB_KK_01.png"
+  }
+]
