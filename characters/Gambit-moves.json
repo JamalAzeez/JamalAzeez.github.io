@@ -1,0 +1,47 @@
+[
+  {
+    "character_name": "Gambit",
+    "move_name": "Kinetic Card",
+    "image": "https://wiki.supercombo.gg/images/7/76/MVC2_Gambit_Ground_QCF_P.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "Trick Card",
+    "image": "https://wiki.supercombo.gg/images/6/60/MVC2_Gambit_Ground_QCB_P.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "LP Cajun Slash",
+    "image": "https://wiki.supercombo.gg/images/1/18/MVC2_Gambit_DP_LP_01.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "HP Cajun Slash",
+    "image": "https://wiki.supercombo.gg/images/2/2a/MVC2_Gambit_DP_HP_01.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "LK+HP Cajun Slash",
+    "image": "https://wiki.supercombo.gg/images/9/9d/MVC2_Gambit_DP_LKHP_02.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "Cajun Escape",
+    "image": "https://wiki.supercombo.gg/images/2/2b/MVC2_Gambit_Charge_P_Attack.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "Cajun Strike",
+    "image": "https://wiki.supercombo.gg/images/4/46/MVC2_Gambit_Charge_K_Attack.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "Royal Flush",
+    "image": "https://wiki.supercombo.gg/images/d/d6/MVC2_Gambit_QCF_PP.png"
+  },
+  {
+    "character_name": "Gambit",
+    "move_name": "Cajun Explosion",
+    "image": "https://wiki.supercombo.gg/images/b/bf/MVC2_Gambit_Air_QCF_P.png"
+  }
+]
