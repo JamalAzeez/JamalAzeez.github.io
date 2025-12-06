@@ -1,0 +1,37 @@
+[
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Plasma Beam",
+    "image": "https://wiki.supercombo.gg/images/e/ed/MVC2_DrDoom_QCF_P_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Photon Shot",
+    "image": "https://wiki.supercombo.gg/images/d/df/MVC2_DrDoom_HCB_P_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Molecular Shield",
+    "image": "https://wiki.supercombo.gg/images/1/13/MVC2_DrDoom_HCB_K_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Flight",
+    "image": "https://wiki.supercombo.gg/images/5/5e/MVC2_DrDoom_QCB_KK_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Electric Cage",
+    "image": "https://wiki.supercombo.gg/images/3/3b/MVC2_DrDoom_QCF_PP_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Photon Array",
+    "image": "https://wiki.supercombo.gg/images/d/df/MVC2_DrDoom_HCB_P_01.png"
+  },
+  {
+    "character_name": "DoctorDoom",
+    "move_name": "Sphere Flame",
+    "image": "https://wiki.supercombo.gg/images/b/be/MVC2_DrDoom_QCF_KK_01.png"
+  }
+]
