@@ -1,0 +1,47 @@
+[
+  {
+    "character_name": "Cammy",
+    "move_name": "Cannon Drill",
+    "image": "https://wiki.supercombo.gg/images/5/54/MVC2_Cammy_QCF_K_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Cannon Spike",
+    "image": "https://wiki.supercombo.gg/images/f/f0/MVC2_Cammy_DP_K_02.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Axel Spin Knuckle",
+    "image": "https://wiki.supercombo.gg/images/5/5f/MVC2_Cammy_QCF_P_02.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Cannon Strike",
+    "image": "https://wiki.supercombo.gg/images/2/2a/MVC2_Cammy_QCB_K_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Cannon Revenge",
+    "image": "https://wiki.supercombo.gg/images/6/6c/MVC2_Cammy_HCB_P_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Hooligan Combination",
+    "image": "https://wiki.supercombo.gg/images/4/4e/MVC2_Cammy_HCB_K_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Spin Drive Smasher",
+    "image": "https://wiki.supercombo.gg/images/e/ed/MVC2_Cammy_QCF_KK_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Reverse Shaft Breaker",
+    "image": "https://wiki.supercombo.gg/images/9/9f/MVC2_Cammy_QCB_KK_01.png"
+  },
+  {
+    "character_name": "Cammy",
+    "move_name": "Killer Bee Assault",
+    "image": "https://wiki.supercombo.gg/images/3/38/MVC2_Cammy_QCB_PP_02.png"
+  }
+]
