@@ -1,0 +1,42 @@
+[
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Berserker Barrage",
+    "image": "https://wiki.supercombo.gg/images/5/5c/MVC2_WolverineA_QCF_P_01.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Tornado Claw",
+    "image": "https://wiki.supercombo.gg/images/5/5b/MVC2_WolverineA_DP_P_03.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Berserker Slash",
+    "image": "https://wiki.supercombo.gg/images/0/07/MVC2_WolverineA_QCB_P_01.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Drill Claw",
+    "image": "https://wiki.supercombo.gg/images/d/d1/MVC2_WolverineA_LK_HP_01.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Berserker Barrage X",
+    "image": "https://wiki.supercombo.gg/images/2/24/MVC2_WolverineA_QCF_P_02.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Weapon X",
+    "image": "https://wiki.supercombo.gg/images/6/60/MVC2_WolverineA_DP_PP_01.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Fatal Claw",
+    "image": "https://wiki.supercombo.gg/images/thumb/7/76/MVC2_WolverineA_DP_KK_01.png/263px-MVC2_WolverineA_DP_KK_01.png"
+  },
+  {
+    "character_name": "WolverineClaw",
+    "move_name": "Berserker Charge",
+    "image": "https://wiki.supercombo.gg/images/a/ac/MVC2_WolverineA_QCF_KK_01.png"
+  }
+]
