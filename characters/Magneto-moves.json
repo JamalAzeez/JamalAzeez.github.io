@@ -1,0 +1,37 @@
+[
+  {
+    "character_name": "Magneto",
+    "move_name": "EM Disruptor",
+    "image": "https://wiki.supercombo.gg/images/thumb/c/c9/MVC2_Magneto_HCF_P_01.png/263px-MVC2_Magneto_HCF_P_01.png"
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Hyper Gravitation",
+    "image": "https://wiki.supercombo.gg/images/4/49/MVC2_Magneto_HCB_K_01.png"
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Magnetic Force Field",
+    "image": "https://wiki.supercombo.gg/images/thumb/f/fe/MVC2_Magneto_HCF_K_01.png/263px-MVC2_Magneto_HCF_K_01.png"
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Magnetic Blast",
+    "image": "https://wiki.supercombo.gg/images/f/ff/MVC2_Magneto_896_P_01.png"
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Flight",
+    "image": ""
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Magnetic Shockwave",
+    "image": "https://wiki.supercombo.gg/images/9/9b/MVC2_Magneto_QCF_PP_01.png"
+  },
+  {
+    "character_name": "Magneto",
+    "move_name": "Magnetic Tempest",
+    "image": ""
+  }
+]
