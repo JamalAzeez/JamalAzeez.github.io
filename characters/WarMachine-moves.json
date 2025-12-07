@@ -1,0 +1,37 @@
+[
+  {
+    "character_name": "WarMachine",
+    "move_name": "Shoulder Cannon",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "Low Shoulder Cannon",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "Smart Bomb",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "Repulsor Blast",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "Flight",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "Proton Cannon",
+    "image": ""
+  },
+  {
+    "character_name": "WarMachine",
+    "move_name": "War Destroyer",
+    "image": ""
+  }
+]
