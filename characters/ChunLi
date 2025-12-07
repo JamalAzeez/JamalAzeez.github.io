@@ -1,0 +1,37 @@
+[
+  {
+    "character_name": "ChunLi",
+    "move_name": "Kikou Ken",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Sen'en Shuu",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Tenshou Kyaku",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Hyakuretsu Kyaku",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Kikou Shou",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Senretsu Kyaku",
+    "image": ""
+  },
+  {
+    "character_name": "ChunLi",
+    "move_name": "Hazan Tenshou Kyaku",
+    "image": ""
+  }
+]
