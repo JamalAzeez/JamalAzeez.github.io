@@ -1,0 +1,32 @@
+[
+  {
+    "character_name": "Ryu",
+    "move_name": "Hadoken",
+    "image": "https://wiki.supercombo.gg/images/4/4f/MVC2_Ryu_Hadoken_04.png"
+  },
+  {
+    "character_name": "Ryu",
+    "move_name": "Shoryuken",
+    "image": "https://wiki.supercombo.gg/images/c/c5/MVC2_Ryu_Shoryuken_02.png"
+  },
+  {
+    "character_name": "Ryu",
+    "move_name": "Tatsumaki Senpuu Kyaku",
+    "image": "https://wiki.supercombo.gg/images/7/7c/MVC2_Ryu_Tatsumaki_Senpuu_Kyaku_02.png"
+  },
+  {
+    "character_name": "Ryu",
+    "move_name": "Shinku Hadoken",
+    "image": "https://wiki.supercombo.gg/images/a/ad/MVC2_Ryu_Hadoken_01.png"
+  },
+  {
+    "character_name": "Ryu",
+    "move_name": "Shinku Tatsumaki Senpu Kyaku",
+    "image": "https://wiki.supercombo.gg/images/0/02/MVC2_Ryu_Shinku_Tatsumaki_Senpu_Kyaku_01.png"
+  },
+  {
+    "character_name": "Ryu",
+    "move_name": "Shin Shoryuken",
+    "image": "https://wiki.supercombo.gg/images/9/9f/MVC2_Ryu_Shoryuken_03.png"
+  }
+]
