@@ -1,0 +1,42 @@
+[
+  {
+    "character_name": "MegaMan",
+    "move_name": "Weapon Activation",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Mega Uppercut",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Summon Rockball Power-Up",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Summon Leaf Shield Power-Up",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Summon Tornado Hold Power-Up",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Hyper Mega Man",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Beat Plane",
+    "image": ""
+  },
+  {
+    "character_name": "MegaMan",
+    "move_name": "Rush Drill",
+    "image": ""
+  }
+]
