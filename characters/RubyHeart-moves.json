@@ -1,0 +1,62 @@
+[
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Schwarzaile",
+    "image": "https://wiki.supercombo.gg/images/8/89/MVC2_Ruby_Heart_QCF_LP_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Fantôme",
+    "image": "https://wiki.supercombo.gg/images/1/1d/MVC2_Ruby_Heart_QCB_K_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Fantôme Projectile",
+    "image": "https://wiki.supercombo.gg/images/c/c9/MVC2_Ruby_Heart_QCB_K_Projectile_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Sublimation",
+    "image": "https://wiki.supercombo.gg/images/1/1b/MVC2_Ruby_Heart_QCF_K_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Sublimation Projectile",
+    "image": "https://wiki.supercombo.gg/images/2/25/MVC2_Ruby_Heart_QCF_K_Projectile_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Rafale Cannon",
+    "image": "https://wiki.supercombo.gg/images/c/cc/MVC2_Ruby_Heart_HCB_P_01.png"
+  },,
+  {
+    "character_name": "RubyHeart",
+    "move_name": "LP Rafale Cannon",
+    "image": "https://wiki.supercombo.gg/images/b/b0/MVC2_Ruby_Heart_HCB_LP_Hitgrab_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Flammeile",
+    "image": "https://wiki.supercombo.gg/images/0/05/MVC2_Ruby_Heart_QCF_HP_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Pare-tonn're",
+    "image": "https://wiki.supercombo.gg/images/f/ff/MVC2_Ruby_Heart_QCF_KK_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Mille Fantôme",
+    "image": "https://wiki.supercombo.gg/images/1/1d/MVC2_Ruby_Heart_QCB_K_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Tour De Magie",
+    "image": "https://wiki.supercombo.gg/images/7/76/MVC2_Ruby_Heart_Demon_Super_01.png"
+  },
+  {
+    "character_name": "RubyHeart",
+    "move_name": "Tour De Magie Projectile",
+    "image": "https://wiki.supercombo.gg/images/c/c1/MVC2_Ruby_Heart_Demon_Super_Barrel_01.png"
+  }
+]
